@@ -14,7 +14,7 @@ This is a part of the paper:
 
 ### Run the demo
 
-1. Download the [pretrained model](https://nextcloud.mpi-klsb.mpg.de/index.php/s/Ritzm3ycioAADSH) and put it in the `checkpoints` folder.
+1. Download the [pretrained model](https://nextcloud.mpi-klsb.mpg.de/index.php/s/cWqcdk2KxKZnbim) and put it in the `checkpoints` folder.
 2. Run the demo script:
 
 ```bash
